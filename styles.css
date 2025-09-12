@@ -1,0 +1,22 @@
+.para{
+    color:brown
+}
+
+.btn{
+    background-color:greenyellow;
+    color:white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.button{
+    margin-top: 20px;
+}
+
+.para {
+    color: blueviolet;
+    font-size: 10px;
+    font-weight: bolder;
+}
